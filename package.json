@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "wallet application made with Node.js, Express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Abhay",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "express-validator": "^6.5.0",
+    "mongoose": "^5.12.7",
+    "mongoose-type-email": "^1.0.12",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "repository": {
+    "type": ""
+  }
+}
